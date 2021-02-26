@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 ## Tarefas
 O Controle das tarefeass desse projeto será realizado no GitHub
@@ -8,3 +8,4 @@ O Controle das tarefeass desse projeto será realizado no GitHub
 :up: Atualização
 :beetle: Correção de bug
 :checkered_flag: release
+
